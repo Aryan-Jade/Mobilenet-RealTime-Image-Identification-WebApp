@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v462-n-130-textureidea_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=9465282a2b0a375f4f5b120d7bbad882");
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    font-size: 33px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div{
+    float: none;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.result_para_tag span{
+    white-space: pre-line;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    color: teal;
+    font-weight: bold;
+    line-height: 3;
+}
+
+h3{
+    height: 200px;
+}
